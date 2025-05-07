@@ -1,10 +1,13 @@
 Sou **Romulo**, um **desenvolvedor web brasileiro autodidata** apaixonado por criar soluções práticas e eficientes. Estou sempre aprendendo novas tecnologias para melhorar minhas habilidades.
 
-## 🚀 Tecnologias que Eu Domínio
+## 🚀 Tecnologias que Eu Domínio 
 
 - **Front-End**: HTML, CSS, JavaScript
 - **Back-End**: PHP
 - **Banco de Dados**: MySQL
+
+## Pretendo aprender 
+- TypeScript, react, Node.js
 
 ## 📲 Me Encontre
 
